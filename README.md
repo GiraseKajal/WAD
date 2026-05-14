@@ -11,3 +11,6 @@ This are the Web Application Development (WAD) Practicals
 # WAD4 - Create a Node.JS application which serve a static website.
 
 # WAD5 - Create a simple Mobile Website using jQuery Mobile.
+
+Clear-History
+Remove-Item (Get-PSReadlineOption).HistorySavePath
